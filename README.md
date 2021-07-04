@@ -1,5 +1,6 @@
 # SIQ-Test-Project
 1. SIQCommonController => Common Controller Class for all the Api Calls. Actions :
+
 a)getPersonByName/Id=>return the person's data in Json format.  
 
 b)addWebhook=>Add a webhook on Pipedrive,action and object type can be passed. Input will be json object. Ex:
@@ -31,4 +32,5 @@ e)addNotes=> add a note for the person,input Json.Ex:
 }
 
 2.NotesService, PersonService,WebhookService => Interfaces
+
 3.NotesServiceImpl, PersonServiceImpl,WebhookServiceImpl => Function implementation classes
