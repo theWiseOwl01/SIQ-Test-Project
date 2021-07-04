@@ -1,0 +1,11 @@
+com\squadiq\api\controllers\SIQCommonControler.class
+com\squadiq\api\model\SIQConstants.class
+com\squadiq\api\Application.class
+com\squadiq\api\model\Owner.class
+com\squadiq\api\model\PersonUpdate.class
+com\squadiq\api\model\WebhookRequest.class
+com\squadiq\api\model\Organisation.class
+com\squadiq\api\service\serviceImpl\PersonServiceImpl.class
+com\squadiq\api\service\serviceImpl\WebhookServiceImpl.class
+com\squadiq\api\model\Person.class
+com\squadiq\api\model\WebhookResponse.class
